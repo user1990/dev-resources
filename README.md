@@ -17,8 +17,10 @@
   
 ## Clean Code
 
+- [Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) 👍 - Summary of 'Clean code' by Robert C. Martin.
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md) 👍 - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
 - [Angular Style Guide](https://angular.io/guide/styleguide) - Looking for an opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
+- [Clean Code Checklist in Angular](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74) - A clean code checklist which covers writing clean and production-ready Angular code.
 
 **[⬆ back to top](#table-of-contents)**
 

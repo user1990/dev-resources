@@ -15,6 +15,15 @@
   - [Blogs](#blogs)
   - [YouTubeVideos](#youtubevideos)
   
+## Guidance
+
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) 👍 - This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019.
+- [2019 Web Developer Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/) 👍 - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer
+
+**[⬆ back to top](#table-of-contents)**
+
+---------------------------------------------------------
+  
   
 ## Clean Code
 

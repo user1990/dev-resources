@@ -29,6 +29,8 @@ Important developers, news sources.
 ## YouTube Channels
 
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) 👍 - Tutorials on: Intermediate to advanced lessons about JavaScript, Flutter, Angular, Firebase, and modern app development
+, Programing Tips
 - [WesBos](https://www.youtube.com/user/wesbos/videos) - Tutorials on: HTML, CSS, JavaScript and web development
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos) - Tutorials on Angular or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software

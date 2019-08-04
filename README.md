@@ -2,7 +2,6 @@
 
 **Manually curated collection of resources for frontend web developers.**
 
-
 ---------------------------------------------------------
 
 ## Table of Contents
@@ -11,12 +10,11 @@
   - [Table of Contents](#table-of-contents)
   - [Guidance](#guidance)
   - [Clean Code](#clean-code)
-  - [Ecosystem](#ecosystem)
   - [YouTube Channels](#youtube-channels)
+  - [Tools](#tools)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Blogs](#blogs)
-  - [YouTubeVideos](#youtubevideos)
   
 ## Guidance
 
@@ -51,6 +49,15 @@
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 
+
+**[⬆ back to top](#table-of-contents)**
+
+---------------------------------------------------------
+
+## Tools
+
++ **[Online Tools](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)**: Online Tools For Web Developers.
++ **[Top 25 Javascript Plugins for Webstorm](https://blog.codota.com/top-25-javascript-plugins-for-webstorm-intellij/)**: Best and most useful plugins for JavaScript development in WebStorm and Intellij.
 
 **[⬆ back to top](#table-of-contents)**
 

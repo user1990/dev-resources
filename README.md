@@ -43,6 +43,11 @@
 + **[8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)** - Some tricks used in practice and others are the new way of solving old problems. Enjoy!.
 + **[JS - I didn't know that](https://www.youtube.com/watch?v=kIhITzw0CG8&feature=youtu.be)**
 + **[20 RxJS Operators You Absolutely Need to Know](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A3b7a13f2-77d3-4f70-8bb9-88a90c8c656c)**
++ **[Git: Tips And Tricks](https://github.com/vasanthk/git-tips-and-tricks/blob/master/README.md#git-log-pretty-graph-view)** - Git Cheatsheet with a few nifty tips and tricks.
++ **[Top 5 Javascript Things You Should Know!](https://www.youtube.com/watch?v=v0QTqHXiVNw)** - These concepts are good to learn after you are comfortable with the basic syntax of javascript and you want to dive deeper into what is happening under the hood.
++ **[RxJS Top Ten - Code This, Not That](https://www.youtube.com/watch?time_continue=1&v=ewcoEYS85Co)** - Looking at ten important concepts in RxJS and how to avoid common anti-patterns.
++ **[Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)** - Deep dive into our list of 12 things that prevent your developers from getting “into the zone” and being productive. 
+
 
 **[⬆ back to top](#table-of-contents)**
 

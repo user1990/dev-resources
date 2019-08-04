@@ -9,6 +9,7 @@
 
 - [A List of Useful Resources for Developers](#a-list-of-useful-resources-for-developers)
   - [Table of Contents](#table-of-contents)
+  - [Guidance](#guidance)
   - [Clean Code](#clean-code)
   - [Ecosystem](#ecosystem)
   - [YouTube Channels](#youtube-channels)

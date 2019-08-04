@@ -37,12 +37,12 @@
 
 ---------------------------------------------------------
   
-## Clean Code
+## Productivity Tips
 
-+ **[Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)** 👍 - Summary of 'Clean code' by Robert C. Martin.
-+ **[Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)** 👍 - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
-+ **[Angular Style Guide](https://angular.io/guide/styleguide)** - Looking for an opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
-+ **[Clean Code Checklist in Angular](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74)** - A clean code checklist which covers writing clean and production-ready Angular code.
++ **[12 Tips for Improving JavaScript Performance](https://nodesource.com/blog/improve-javascript-performance/)** - 12 ways to effectively improve application performance.
++ **[8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)** - Some tricks used in practice and others are the new way of solving old problems. Enjoy!.
++ **[JS - I didn't know that](https://www.youtube.com/watch?v=kIhITzw0CG8&feature=youtu.be)**
++ **[20 RxJS Operators You Absolutely Need to Know](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A3b7a13f2-77d3-4f70-8bb9-88a90c8c656c)**
 
 **[⬆ back to top](#table-of-contents)**
 

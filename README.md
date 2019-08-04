@@ -42,11 +42,15 @@
 + **[12 Tips for Improving JavaScript Performance](https://nodesource.com/blog/improve-javascript-performance/)** - 12 ways to effectively improve application performance.
 + **[8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)** - Some tricks used in practice and others are the new way of solving old problems. Enjoy!.
 + **[JS - I didn't know that](https://www.youtube.com/watch?v=kIhITzw0CG8&feature=youtu.be)**
++ **[Angular Architecture Patterns and Best Practices](https://angular-academy.com/angular-architecture-best-practices/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)**
 + **[20 RxJS Operators You Absolutely Need to Know](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A3b7a13f2-77d3-4f70-8bb9-88a90c8c656c)**
++ **[The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg&feature=youtu.be)** - protection from the so-called "weird" features that you will encounter as a JS developer. This primer will introduce you to variables, functions, objects, closures, hoisting, this-binding, and more.
 + **[Git: Tips And Tricks](https://github.com/vasanthk/git-tips-and-tricks/blob/master/README.md#git-log-pretty-graph-view)** - Git Cheatsheet with a few nifty tips and tricks.
 + **[Top 5 Javascript Things You Should Know!](https://www.youtube.com/watch?v=v0QTqHXiVNw)** - These concepts are good to learn after you are comfortable with the basic syntax of javascript and you want to dive deeper into what is happening under the hood.
 + **[RxJS Top Ten - Code This, Not That](https://www.youtube.com/watch?time_continue=1&v=ewcoEYS85Co)** - Looking at ten important concepts in RxJS and how to avoid common anti-patterns.
 + **[Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)** - Deep dive into our list of 12 things that prevent your developers from getting “into the zone” and being productive. 
++ **[What’s new in JavaScript (Google I/O ’19)](https://www.youtube.com/watch?v=c0oy0vQKEZE&feature=youtu.be)** - This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 engine optimizes for them, and how to improve real-world performance and stability on the Web and in Node.js.
++ **[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)** - The basic architecture concepts for a web developer.
 
 
 **[⬆ back to top](#table-of-contents)**

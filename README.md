@@ -82,7 +82,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📹 **[Moving Existing API From REST To GraphQL](https://www.youtube.com/watch?v=broQmxQAMjM)** - Intro to the query language, how GitHub uses it internally with Ruby and Rails, and the lessons they learned launching their GraphQL API externally.
 + 📖 **[First-Class Functions in JavaScript](https://nick.scialli.me/first-class-functions-in-javascript/)** - Functions can be treated like other variables, which turns out to be incredibly important behavior to understand as you advance as a JavaScript developer.  
 + 📖 **[Unrevealed tips for unit testing with Jest]( https://goodguydaniel.com/blog/tips-jest-unit-testing/)** - Super pragmatic and short list of tips that might help you get that tricky stubborn mock to work.
-+ 📖 **[Scope in JavaScript - HTTP 203](https://www.youtube.com/watch?v=5LEuJNLfLN0&feature=youtu.be)** - Jake and Surma take a deep dive into the world of variable scoping in JavaScript. var vs const/let and scripts vs modules.
++ 📹 **[Scope in JavaScript - HTTP 203](https://www.youtube.com/watch?v=5LEuJNLfLN0&feature=youtu.be)** - Jake and Surma take a deep dive into the world of variable scoping in JavaScript. var vs const/let and scripts vs modules.
 
 **[⬆ back to top](#table-of-contents)**
 

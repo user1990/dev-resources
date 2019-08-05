@@ -11,12 +11,11 @@
   - [Guidance](#guidance)
   - [Clean Code](#clean-code)
   - [Productivity Tips](#productivity-tips)
+  - [Articles](#articles)
   - [YouTube Channels](#youtube-channels)
   - [Tools](#tools)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
-  - [Blogs](#blogs)
-  
   
 ## How to use?
 Some resources possess an emoticon to help you understand which type of content / help you may find on the checklist:
@@ -61,7 +60,29 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)** - Deep dive into our list of 12 things that prevent your developers from getting “into the zone” and being productive. 
 + 📹 **[What’s new in JavaScript (Google I/O ’19)](https://www.youtube.com/watch?v=c0oy0vQKEZE&feature=youtu.be)** - This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 engine optimizes for them, and how to improve real-world performance and stability on the Web and in Node.js.
 + 📖 **[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)** - The basic architecture concepts for a web developer.
++ 📹 **[The Async Await(Fireship)](https://www.youtube.com/watch?time_continue=1&v=vn3tm0quoqE)** - Learn how to make your JavaScript Promise code beautiful and concise with async-await.
 
+
+
+**[⬆ back to top](#table-of-contents)**
+
+---------------------------------------------------------
+  
+## Articles
+
++ 📖 **[List of (advanced) JavaScript questions](https://github.com/lydiahallie/javascript-questions)** - A long list of (advanced) JavaScript questions, and their explanations !Updated weekly!
++ 📖 **[The State of Angular in 2019](https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6)** - A detailed overview of the current state of Angular, from the latest features to the hottest topics and trends that you may have missed.
++ 📖 **[Handling Safe Destructuring in TypeScript](https://kamranicus.com/posts/2019-06-26-typescript-safe-destructuring-patterns?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** - It's common in JavaScript code to accept objects as parameters in functions and setting them to an empty object by default to allow safe destructuring. This article covers how to handle this pattern in TypeScript.
++ 📖 **[What Is Holding Your Angular Team’s Productivity Back?](https://christianlydemann.com/what-is-holding-your-angular-teams-productivity-back/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)**
++ 📖 **[An Illustrated (and Musical) Guide to Map, Reduce, and Filter Array Methods](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)** - Map, reduce, and filter are three very useful array methods in JavaScript that give developers a ton of power in a short amount of space. Let’s jump right into how you can leverage (and remember how to use!) these super handy methods.
++ 📖 **[Difference Between Array<Type>, Type[], [Type] in TypeScript](https://mattferderer.com/difference-between-array-types-in-typescript)** - Here are the TLDR common methods of defining arrays in TypeScript.
++ 📖 **[FUNCTIONAL JAVASCRIPT: WHAT ARE HIGHER-ORDER FUNCTIONS, AND WHY SHOULD ANYONE CARE?](https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/)** - Deep dive explanation for functional javascript: higher order functions.
++ 📖 **[The Mistakes I Made As a Beginner Programmer](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)** - Learn to identify them, make habits to avoid them.
++ 📖 **[The One Programming Language to Rule Them All](https://medium.com/better-programming/the-one-programming-language-to-rule-them-all-620366df2805)** - There’s a language that sits a layer beneath code, and it yearns to be explored.
++ 📹 **[Moving Existing API From REST To GraphQL](https://www.youtube.com/watch?v=broQmxQAMjM)** - Intro to the query language, how GitHub uses it internally with Ruby and Rails, and the lessons they learned launching their GraphQL API externally.
++ 📖 **[First-Class Functions in JavaScript](https://nick.scialli.me/first-class-functions-in-javascript/)** - Functions can be treated like other variables, which turns out to be incredibly important behavior to understand as you advance as a JavaScript developer.  
++ 📖 **[Unrevealed tips for unit testing with Jest]( https://goodguydaniel.com/blog/tips-jest-unit-testing/)** - Super pragmatic and short list of tips that might help you get that tricky stubborn mock to work.
++ 📖 **[Scope in JavaScript - HTTP 203](https://www.youtube.com/watch?v=5LEuJNLfLN0&feature=youtu.be)** - Jake and Surma take a deep dive into the world of variable scoping in JavaScript. var vs const/let and scripts vs modules.
 
 **[⬆ back to top](#table-of-contents)**
 

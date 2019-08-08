@@ -61,7 +61,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📹 **[What’s new in JavaScript (Google I/O ’19)](https://www.youtube.com/watch?v=c0oy0vQKEZE&feature=youtu.be)** - This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 engine optimizes for them, and how to improve real-world performance and stability on the Web and in Node.js.
 + 📖 **[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)** - The basic architecture concepts for a web developer.
 + 📹 **[The Async Await(Fireship)](https://www.youtube.com/watch?time_continue=1&v=vn3tm0quoqE)** - Learn how to make your JavaScript Promise code beautiful and concise with async-await.
-+ 📹 **[Web Security 2019)](https://youtube.com/watch?v=-DNNlBYIyxQ)** - Going through from a web admins perspective: TLS, Cipher Suites, HTTP Security Headers, CAs, the move to an encrypted-by-default web, and more.
++ 📹 **[Web Security 2019](https://youtube.com/watch?v=-DNNlBYIyxQ)** - Going through from a web admins perspective: TLS, Cipher Suites, HTTP Security Headers, CAs, the move to an encrypted-by-default web, and more.
 
 **[⬆ back to top](#table-of-contents)**
 

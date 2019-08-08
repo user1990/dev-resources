@@ -62,8 +62,6 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)** - The basic architecture concepts for a web developer.
 + 📹 **[The Async Await(Fireship)](https://www.youtube.com/watch?time_continue=1&v=vn3tm0quoqE)** - Learn how to make your JavaScript Promise code beautiful and concise with async-await.
 
-
-
 **[⬆ back to top](#table-of-contents)**
 
 ---------------------------------------------------------
@@ -101,7 +99,6 @@ Some resources possess an emoticon to help you understand which type of content 
 + **[LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/)** - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 + **[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/)** - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 
-
 **[⬆ back to top](#table-of-contents)**
 
 ---------------------------------------------------------
@@ -135,7 +132,6 @@ Digital media that consists of an episodic series of audio, video, digital radio
 + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
 + **[JavaScript Air](https://javascriptair.com/)**: The live broadcast podcast all about JavaScript.
 + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
-
 
 **[⬆ back to top](#table-of-contents)**
 

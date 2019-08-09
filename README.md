@@ -62,6 +62,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)** - The basic architecture concepts for a web developer.
 + 📹 **[The Async Await(Fireship)](https://www.youtube.com/watch?time_continue=1&v=vn3tm0quoqE)** - Learn how to make your JavaScript Promise code beautiful and concise with async-await.
 + 📹 **[Web Security 2019](https://youtube.com/watch?v=-DNNlBYIyxQ)** - Going through from a web admins perspective: TLS, Cipher Suites, HTTP Security Headers, CAs, the move to an encrypted-by-default web, and more.
++ 📹 **[ArangoDB - Databases every developer should know about](https://www.youtube.com/watch?v=4C4zqhXwCKs)**: ArangoDB is a SUPER COOL database that every developer should at least be familiar with.  ArangoDB is muti-model, so you can use it as a document DB, a key/value store, or a graph DB all at the same time. ArangoDB has a TON of flexibility and features, ranging from GeoJSON, search views (arangosearch), the ability to add node.js microservices, and, best of all, a really nice query language.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -108,6 +109,7 @@ Some resources possess an emoticon to help you understand which type of content 
 
 + 🛠 **[Online Tools](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)**: Online Tools For Web Developers.
 + 🛠 **[Top 25 Javascript Plugins for Webstorm](https://blog.codota.com/top-25-javascript-plugins-for-webstorm-intellij/)**: Best and most useful plugins for JavaScript development in WebStorm and Intellij.
++ 🛠 **[Packem](https://packem.github.io/)**: Packem is +2X faster than Parcel (with multicore compilation).
 
 **[⬆ back to top](#table-of-contents)**
 

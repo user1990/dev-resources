@@ -64,7 +64,8 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📹 **[Web Security 2019](https://youtube.com/watch?v=-DNNlBYIyxQ)** - Going through from a web admins perspective: TLS, Cipher Suites, HTTP Security Headers, CAs, the move to an encrypted-by-default web, and more.
 + 📹 **[ArangoDB - Databases every developer should know about](https://www.youtube.com/watch?v=4C4zqhXwCKs)** - ArangoDB is a SUPER COOL database that every developer should at least be familiar with. ArangoDB is muti-model, so you can use it as a document DB, a key/value store, or a graph DB all at the same time. ArangoDB has a TON of flexibility and features, ranging from GeoJSON, search views (arangosearch), the ability to add node.js microservices, and, best of all, a really nice query language.
 + 📹 **[This Is the Only Way to Truly Learn JavaScript](https://www.youtube.com/watch?v=HnXmI2UVZlU&feature=youtu.be)** - In this video I'm explaining the best way to become a JavaScript programmer.
-
++ 📖 **[Learn Advanced TypeScript](https://hackernoon.com/learn-advanced-typescript-4yl727e6)** 
++ 📖 **[The Complete Guide To Angular Load Time Optimization](https://christianlydemann.com/the-complete-guide-to-angular-load-time-optimization/)** - Dive into one of the big and important topics: optimizing Angular load time performance.
 
 **[⬆ back to top](#table-of-contents)**
 

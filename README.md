@@ -85,8 +85,10 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[First-Class Functions in JavaScript](https://nick.scialli.me/first-class-functions-in-javascript/)** - Functions can be treated like other variables, which turns out to be incredibly important behavior to understand as you advance as a JavaScript developer.  
 + 📖 **[Unrevealed tips for unit testing with Jest]( https://goodguydaniel.com/blog/tips-jest-unit-testing/)** - Super pragmatic and short list of tips that might help you get that tricky stubborn mock to work.
 + 📹 **[Scope in JavaScript - HTTP 203](https://www.youtube.com/watch?v=5LEuJNLfLN0&feature=youtu.be)** - Jake and Surma take a deep dive into the world of variable scoping in JavaScript. var vs const/let and scripts vs modules.
-+ 📹 **[JAMSTACK](https://jamstack.org/)** - A modern architecture —
++ 📖 **[JAMSTACK](https://jamstack.org/)** - A modern architecture —
 Create fast and secure sites and dynamic apps with JavaScript, APIs, and prerendered Markup, served without web servers.
++ 📖 **[Serverless TypeScript](https://lesscodeismore.dev/serverless-typescript/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** - A modern architecture —
+Serverless is the best thing that has happened to the backend and TypeScript is the best thing that has happened to Node.js. So it makes sense combining the two to make something awesome.
 
 **[⬆ back to top](#table-of-contents)**
 

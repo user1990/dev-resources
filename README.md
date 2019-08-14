@@ -66,6 +66,8 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📹 **[This Is the Only Way to Truly Learn JavaScript](https://www.youtube.com/watch?v=HnXmI2UVZlU&feature=youtu.be)** - In this video I'm explaining the best way to become a JavaScript programmer.
 + 📖 **[Learn Advanced TypeScript](https://hackernoon.com/learn-advanced-typescript-4yl727e6)** 
 + 📖 **[The Complete Guide To Angular Load Time Optimization](https://christianlydemann.com/the-complete-guide-to-angular-load-time-optimization/)** - Dive into one of the big and important topics: optimizing Angular load time performance.
++ 📖 **[20 Patterns to Watch for in Your Engineering Team](https://www.gitprime.com/content/20-patterns-in-software-teams.pdf)** - A field guide to help you recognize achievement, spot bottlenecks,
+and debug your development process with data.
 
 **[⬆ back to top](#table-of-contents)**
 

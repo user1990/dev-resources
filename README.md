@@ -70,7 +70,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[Advanced Coding Skills, Techniques, and Ideas](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)** - real-life examples of some techniques and ideas that will help you to clean up your legacy code and refactor it to make it more robust and modular.
 + 📖 **[JS & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.md)** - This guide can take your testing skills to the next level.
 + 📖 **[Design Principles for Developers: Processes and CSS Tips for Better Web Design](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)**
-+ 📖 **[Web Development In 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0&feature=youtu.be)** - e will look at nearly all aspects of web technology including the necessities as well as some of the new trends for 2019.
++ 📖 **[Web Development In 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0&feature=youtu.be)** - We will look at nearly all aspects of web technology including the necessities as well as some of the new trends for 2019.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -96,6 +96,7 @@ Create fast and secure sites and dynamic apps with JavaScript, APIs, and prerend
 + 📖 **[Serverless TypeScript](https://lesscodeismore.dev/serverless-typescript/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** - A modern architecture —
 Serverless is the best thing that has happened to the backend and TypeScript is the best thing that has happened to Node.js. So it makes sense combining the two to make something awesome.
 + 📹 **[Callbacks vs Promises vs RxJs Observables vs async/ await](https://www.youtube.com/watch?v=jgWnccjXR4I&feature=youtu.be)** - Handling async operations is a common task in any JavaScript program. You got different options - let's dive into them!
++ 📹 **[Chrome 76 - What’s New in DevTools](https://www.youtube.com/watch?v=GLUB2yzk0ZQ&feature=youtu.be)** - New to DevTools in Chrome 76
 
 **[⬆ back to top](#table-of-contents)**
 

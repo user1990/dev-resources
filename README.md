@@ -126,6 +126,7 @@ Serverless is the best thing that has happened to the backend and TypeScript is 
 + 🛠 **[50 awesome new tools for developers in 2019](https://www.creativebloq.com/features/50-awesome-new-tools-for-developers-in-2019)**: A fresh batch of tools you’ll want to consider for your projects.
 + 🛠 **[Packem](https://packem.github.io/)**: Packem is +2X faster than Parcel (with multicore compilation).
 + 🛠 **[ArangoDB](https://www.arangodb.com/)**: ArangoDB is muti-model, so you can use it as a document DB, a key/value store, or a graph DB all at the same time.
++ 🛠 **[Library Genesis](https://libgen.is/search.php?req=Dive+into+design+patterns&open=0&res=25&view=simple&phrase=1&column=def)**: Get Every Book.
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -69,7 +69,8 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[20 Patterns to Watch for in Your Engineering Team](https://www.gitprime.com/content/20-patterns-in-software-teams.pdf)** - A field guide to help you recognize achievement, spot bottlenecks,
 and debug your development process with data.
 + 📖 **[Advanced Coding Skills, Techniques, and Ideas](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)** - real-life examples of some techniques and ideas that will help you to clean up your legacy code and refactor it to make it more robust and modular.
-
++ 📖 **[JS & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.md)** - This guide can take your testing skills to the next level.
++ 📖 **[Design Principles for Developers: Processes and CSS Tips for Better Web Design](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)**
 **[⬆ back to top](#table-of-contents)**
 
 ---------------------------------------------------------

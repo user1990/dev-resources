@@ -102,12 +102,12 @@ Serverless is the best thing that has happened to the backend and TypeScript is 
 
 + **[Traversy Media](https://www.youtube.com/user/TechGuyWeb/)** 👍 - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programing Tips
 + **[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)** 👍 - Tutorials on: Intermediate to advanced lessons about JavaScript, Flutter, Angular, Firebase, and modern app development
-, Programing Tips
 + **[WesBos](https://www.youtube.com/user/wesbos/videos)** - Tutorials on: HTML, CSS, JavaScript and web development
 + **[Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)** - Tutorials on Angular or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!
 + **[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/)** - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
 + **[Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)** - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 + **[LearnCode.academy](https://www.youtube.com/user/learncodeacademy/)** - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
++ **[Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)** -Building low level stuff in a high level language.
 + **[LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/)** - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 + **[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/)** - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 

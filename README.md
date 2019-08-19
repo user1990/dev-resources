@@ -68,6 +68,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[The Complete Guide To Angular Load Time Optimization](https://christianlydemann.com/the-complete-guide-to-angular-load-time-optimization/)** - Dive into one of the big and important topics: optimizing Angular load time performance.
 + 📖 **[20 Patterns to Watch for in Your Engineering Team](https://www.gitprime.com/content/20-patterns-in-software-teams.pdf)** - A field guide to help you recognize achievement, spot bottlenecks,
 and debug your development process with data.
++ 📖 **[Advanced Coding Skills, Techniques, and Ideas](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)** - real-life examples of some techniques and ideas that will help you to clean up your legacy code and refactor it to make it more robust and modular.
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -71,6 +71,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📖 **[JS & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.md)** - This guide can take your testing skills to the next level.
 + 📖 **[Design Principles for Developers: Processes and CSS Tips for Better Web Design](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)**
 + 📖 **[Web Development In 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0&feature=youtu.be)** - We will look at nearly all aspects of web technology including the necessities as well as some of the new trends for 2019.
++ 📖 **[10 things I learned making the fastest JS server runtime in the world](https://www.youtube.com/watch?v=-npTuvzflh4)** - This talk is about thinking outside of the box, being creative and don’t take anything for granted. We will debunk myths about native code vs script or RAM usage, it’s going to be fast! I promise!
 
 **[⬆ back to top](#table-of-contents)**
 

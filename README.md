@@ -77,6 +77,7 @@ Some resources possess an emoticon to help you understand which type of content 
 + 📹 **[Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&feature=youtu.be)** - Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually.
 + 📹 **[Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo&feature=youtu.be)** - In this course you will learn Docker through a series of lectures that use animation, illustration and some fun analogies that simply complex concepts, we have demos that will show how to install and get started with Docker and most importantly we have hands-on labs that you can access right in your browser.
 + 📹 **[Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&feature=youtu.be)** -  Throughout the course, we will develop our own Active Directory lab in Windows, make it vulnerable, hack it, and patch it. We'll cover the red and blue sides. We'll also cover some of the boring stuff like report writing :)
++ 📖 **[Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)** - We’re going to show you what causes them and how to prevent them from happening. If you avoid these “gotchas,” it’ll make you a better developer.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -102,7 +103,7 @@ Create fast and secure sites and dynamic apps with JavaScript, APIs, and prerend
 + 📖 **[Serverless TypeScript](https://lesscodeismore.dev/serverless-typescript/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** - A modern architecture —
 Serverless is the best thing that has happened to the backend and TypeScript is the best thing that has happened to Node.js. So it makes sense combining the two to make something awesome.
 + 📹 **[Callbacks vs Promises vs RxJs Observables vs async/ await](https://www.youtube.com/watch?v=jgWnccjXR4I&feature=youtu.be)** - Handling async operations is a common task in any JavaScript program. You got different options - let's dive into them!
-+ 📹 **[Chrome 76 - What’s New in DevTools](https://www.youtube.com/watch?v=GLUB2yzk0ZQ&feature=youtu.be)** - New to DevTools in Chrome 76
++ 📖 **[Angular - All Talks from AngularConnect 2019](https://nitayneeman.com/posts/all-talks-from-angular-connect-2019/?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** - A collection of all lectures that were presented during the Europe's largest Angular conference - within one page. Each session includes a concise description and relevant slides.
 
 **[⬆ back to top](#table-of-contents)**
 

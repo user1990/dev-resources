@@ -17,6 +17,7 @@
   - [Tools](#tools)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
+  - [IT News](#it-news)
 
 ## How to use?
 
@@ -163,6 +164,20 @@ Digital media that consists of an episodic series of audio, video, digital radio
 - **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
 - **[JavaScript Air](https://javascriptair.com/)**: The live broadcast podcast all about JavaScript.
 - **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+---
+
+## IT News
+
+- **[BleepingComputer](https://www.bleepingcomputer.com/)**
+- **[The Hackers News](https://thehackernews.com/)**
+- **[The Next Web](https://thenextweb.com/)**
+- **[The New Stack](https://thenewstack.io/)**
+- **[Learn Worthy](https://learnworthy.net/it/)**
 
 **[⬆ back to top](#table-of-contents)**
 

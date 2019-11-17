@@ -122,7 +122,8 @@ Some resources possess an emoticon to help you understand which type of content 
 - **[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/)** - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
 - **[Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)** - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 - **[LearnCode.academy](https://www.youtube.com/user/learncodeacademy/)** - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
-- **[Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)** -Building low level stuff in a high level language.
+- **[Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)** - Web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.
+- **[Dev Ed ]https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/videos)** - Learn web development, web design, 3d modelling, tools like figma and more without getting bored! The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
 - **[LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/)** - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 - **[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/)** - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 

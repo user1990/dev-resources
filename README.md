@@ -34,6 +34,11 @@ Some resources possess an emoticon to help you understand which type of content 
 
 - **[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)** 👍 - This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019.
 - **[2019 Web Developer Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)** 👍 - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer
+- **[Web Development Trends 2020](https://www.youtube.com/watch?v=Pw8U9l8acPA&t=487s)** 👍 - What's hot in web development in 2020? What should you learn, which technologies should you not miss out on?
+- **[Web Dev Roadmap 2020 [Complete Guide]](https://www.youtube.com/watch?v=iogabydg2y0&t=581s)** 👍 - Guide you in deciding what technology and languages you should learn about in 2020. We will cover all of the most popular languages and technology, focusing on full-stack development.
+- **[Web Development In 2020 - A Practical Guide](https://www.youtube.com/watch?v=0pThnRneDjw&t=3493s)** 👍 -  It is simply a guide of options to help you understand what is what and pick your learning path
+- **[The Future of JavaScript - New Features and Disruptive Trends in 2020](https://www.youtube.com/watch?v=f0DrPLKf6Ro&t=17s)** 👍 -  Take a look at the future of JavaScript in the year 2020. Expect awesome new language features and disruptive trends that could change everything! 
+
 
 **[⬆ back to top](#table-of-contents)**
 

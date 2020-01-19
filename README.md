@@ -12,6 +12,7 @@
   - [Guidance](#guidance)
   - [Clean Code](#clean-code)
   - [Productivity Tips](#productivity-tips)
+  - [Practice](#practice)
   - [Articles](#articles)
   - [YouTube Channels](#youtube-channels)
   - [Tools](#tools)
@@ -50,6 +51,15 @@ Some resources possess an emoticon to help you understand which type of content 
 - 📖 **[Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)** 👍 - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
 - 📖 **[Angular Style Guide](https://angular.io/guide/styleguide)** - Looking for an opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
 - 📖 **[Clean Code Checklist in Angular](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74)** - A clean code checklist which covers writing clean and production-ready Angular code.
+
+**[⬆ back to top](#table-of-contents)**
+
+---
+
+## Practice
+
+- 📖 **[30 seconds of code(https://www.30secondsofcode.org/list/p/1/)** 👍 - Short code snippets for all your development needs
+- 📖 **[JavaScript Questions](https://github.com/lydiahallie/javascript-questions)** 👍 - From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! muscle rocket
 
 **[⬆ back to top](#table-of-contents)**
 

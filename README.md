@@ -58,7 +58,7 @@ Some resources possess an emoticon to help you understand which type of content 
 
 ## Practice
 
-- 📖 **[30 seconds of code(https://www.30secondsofcode.org/list/p/1/)** 👍 - Short code snippets for all your development needs
+- 📖 **[30 seconds of code](https://www.30secondsofcode.org/list/p/1/)** 👍 - Short code snippets for all your development needs
 - 📖 **[JavaScript Questions](https://github.com/lydiahallie/javascript-questions)** 👍 - From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! muscle rocket
 
 **[⬆ back to top](#table-of-contents)**
